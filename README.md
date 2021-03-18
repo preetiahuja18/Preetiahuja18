@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Preeti!</h1>
 <h3 align="center">I am eager to learn new things😃</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiahuja18&label=Profile%20views&color=0e75b6&style=flat" alt="preetiahuja18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetiahuja18" alt="preetiahuja18" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/preetiahuja18" target="blank"><img src="https://img.shields.io/twitter/follow/preetiahuja18?logo=twitter&style=for-the-badge" alt="preetiahuja18" /></a> </p>
 <p align="right">
  <img src="https://user-images.githubusercontent.com/72223546/111592793-433df700-87ef-11eb-948b-a82294c3daf9.jpg" width="400" alt="girl" align="right" />
   </p>
