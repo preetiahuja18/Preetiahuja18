@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Cloud Computing,Graphic Designing.**
+- 🌱 I’m currently learning **Cloud Computing and exploring cyber security.**
 
 - 📫 How to reach me **preetiahuja113@gmail.com**
 
