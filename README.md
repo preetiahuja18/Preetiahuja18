@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiahuja18&label=Profile%20views&color=0e75b6&style=flat" alt="preetiahuja18" /> </p>
 
 <p align="right">
- <img src="https://user-images.githubusercontent.com/72223546/111592793-433df700-87ef-11eb-948b-a82294c3daf9.jpg" width="400" alt="girl" align="right" />
+ <img src= "https://im6.ezgif.com/tmp/ezgif-6-99e0756b1555.gif" width="450" alt="girl" align="right" />
   </p>
 
 
-- 🌱 I’m currently learning **Cloud Computing☁ and exploring Cyber Security👩‍💻**
+- 🌱 I’m currently learning **Cloud Computing☁ and exploring
+ Cyber Security👩‍💻**
 
 - 💬 Ask me about **cloud computing☁**
 
