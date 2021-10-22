@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiahuja18&label=Profile%20views&color=0e75b6&style=flat" alt="preetiahuja18" /> </p>
 
 <p align="right">
- <img src= "https://im6.ezgif.com/tmp/ezgif-6-99e0756b1555.gif" width="450" alt="girl" align="right" />
+ <img src= "https://cdn.dribbble.com/users/992274/screenshots/15776647/media/d5f36eab112c0549cc2b677fdb558314.jpg?compress=1&resize=1200x900" width="450" alt="girl" align="right" />
   </p>
 
 
