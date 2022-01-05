@@ -8,8 +8,7 @@
   </p>
 
 
-- 🌱 I’m currently learning **Cloud Computing☁ and exploring
- Cyber Security👩‍💻**
+- 🌱 I’m currently learning **Cloud Computing☁ and Android Development👩‍💻**
 
 - 💬 Ask me about **cloud computing☁**
 
