@@ -8,7 +8,7 @@
   </p>
 
 
-- 🌱 I’m a junior Flutter App Developer and cloud computing enthusiast👩‍💻**
+- 🌱 I’m a junior Flutter App Developer and cloud computing enthusiast👩‍💻
 
 - 💬 Ask me about **cloud computing☁**
 
