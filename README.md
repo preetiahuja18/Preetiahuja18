@@ -8,7 +8,7 @@
   </p>
 
 
-- 🌱 I’m currently learning **Cloud Computing☁ and App Development👩‍💻**
+- 🌱 I’m a junior Flutter App Developer and cloud computing enthusiast👩‍💻**
 
 - 💬 Ask me about **cloud computing☁**
 
