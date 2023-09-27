@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/preetiahuja_" target="blank"><img src="https://img.shields.io/twitter/follow/preetiahuja_?logo=twitter&style=for-the-badge" alt="preetiahuja_" /></a> </p>
 
-- 🔭 I’m currently working in Pyramid Developers as a Flutter Developer
 
 - 🌱 I’m a Flutter App Developer **and Cloud Computing Enthusiast**
 
