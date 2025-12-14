@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **preetiahuja113@gmail.com**
 
-- 📄 Know about my experiences [From Here](https://drive.google.com/file/d/1KpAhy0lwIjhxWrAI_8K21yJgfl_xprcP/view?usp=sharing)
+- 📄 Know about my experiences [From Here]([https://drive.google.com/file/d/1KpAhy0lwIjhxWrAI_8K21yJgfl_xprcP/view?usp=sharing](https://flowcv.me/preeti-ahuja))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
